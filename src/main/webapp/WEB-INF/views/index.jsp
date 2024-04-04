@@ -10,5 +10,6 @@
     <h3>Version: 3.1</h3>
     <h3>It is updated on forked repository (2024.03.27)</h3>
     <h3>It is updated on Jenkins + Ansible Playbook practice (2024.03.30)</h3>
+    <h3>It is updated on Jenkins CI/CD (Jenkins + Ansible + K8S) practice (2024.04.04)</h3>
 </body>
 </html>
